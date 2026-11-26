@@ -1,1 +1,3 @@
 Look at me, I am getting it now?
+I seemingly know how to push updated text to Github when I am working on the newest commit, but what about when I revert to a previous commit
+
