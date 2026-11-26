@@ -1,0 +1,1 @@
+This is another practice to make sure I understand how to connect Git to Github
